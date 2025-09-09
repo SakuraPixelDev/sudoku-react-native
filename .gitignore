@@ -1,0 +1,53 @@
+# AI generated stuff
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Expo
+.expo/
+.expo-shared/
+
+# Metro bundler cache
+.expo/
+.expo-shared/
+.expo-dev/
+dist/
+web-build/
+
+# Build outputs
+android/
+ios/
+build/
+*.apk
+*.aab
+
+# Logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.gz
+
+# Editor/OS files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
